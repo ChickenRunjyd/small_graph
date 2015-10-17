@@ -23,7 +23,16 @@ $(exe):$(objs)
 	$(cc) $(objs) -o $(exe) $(flags)
 
 test:$(exe)
-	./bfs_small_graph /home/yuede/dataset_small_graph/contact1_beg.bin /home/yuede/dataset_small_graph/contact1_csr.bin 218
+	./bfs_small_graph /home/yuede/small_graph/dataset_small_graph/contact1_beg.bin /home/yuede/small_graph/dataset_small_graph/contact1_csr.bin 219
+
+test1:$(exe)
+	./bfs_small_graph /home/yuede/small_graph/dataset_small_graph/begin.bin /home/yuede/small_graph/dataset_small_graph/adjacent.bin 219
+
+test_back:$(exe)
+	./bfs_small_graph /home/yuede/small_graph/dataset_small_graph/cpu_beg_pos_bwd.bin /home/yuede/small_graph/dataset_small_graph/cpu_adj_list.bwd.0.bin 219
+
+test_forward:$(exe)
+	./bfs_small_graph /home/yuede/small_graph/dataset_small_graph/cpu_beg_pos_fwd.bin /home/yuede/small_graph/dataset_small_graph/cpu_adj_list.fwd.0.bin 219
 
 clean:
 	rm -rf $(exe) $(objs) 

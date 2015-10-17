@@ -34,7 +34,12 @@ graph::graph(
 	ret=fread(tmp_csr, sizeof(vertex_tt), edge_count, file);
 	assert(ret==edge_count);
 	fclose(file);
-	/**
+
+    /**
+    for(int i=0;i<edge_count;++i)
+        assert(tmp_csr[i]<vert_count);
+ **/   
+    /**
 	file=fopen(weight_file, "rb");
 	if(file==NULL)
 	{
