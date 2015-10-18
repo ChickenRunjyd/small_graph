@@ -1,0 +1,17 @@
+cc = nvcc 
+
+#cflags = -c
+
+all: bfs_small_graph
+
+bfs_small_graph: bfs_small_graph.o graph.o
+	$(cc) bfs_small_graph.o graph.o -o small_graph
+
+bfs_small_graph.o: bfs_small_graph.cu
+	$(cc) bfs_small_graph.cu
+
+grph.o: graph.cu
+	$(cc) graph.cu
+
+clean:
+	rm *.o graph

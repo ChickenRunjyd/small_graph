@@ -1,0 +1,145 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INF	./bfs/bfs_bottom_up_cpu.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INF	./bfs/bfs_cpu_stl.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INF	./bfs/bfs_naive.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INF	./bfs/bfs_small_graph_wrong.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INF	./bfs/bfs_thread_frontier.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INF	./bfs/small_graph_read.cpp	/^const int INF = 0x7FFFFFFF;$/;"	v
+INF	./sssp/bfs_bottom_up_cpu.cpp	/^const int INF = 0x7fffffff;$/;"	v
+INFTY	./bfs/util.h	14;"	d
+INFTY	./sssp/util.h	14;"	d
+LOCK	./bfs/util.h	7;"	d
+LOCK	./sssp/util.h	7;"	d
+ORPHAN	./bfs/util.h	15;"	d
+ORPHAN	./sssp/util.h	15;"	d
+UNLOCK	./bfs/util.h	8;"	d
+UNLOCK	./sssp/util.h	8;"	d
+UNVIS	./bfs/util.h	16;"	d
+UNVIS	./sssp/util.h	16;"	d
+V	./bfs/bfs_bottom_up_cpu.cpp	/^const int V = 219;$/;"	v
+V	./bfs/bfs_cpu_stl.cpp	/^const int V = 219;$/;"	v
+V	./bfs/bfs_multi_invoke.cpp	/^const int V = 219;$/;"	v
+V	./bfs/bfs_single_invoke.cpp	/^const int V = 219;$/;"	v
+V	./bfs/bfs_small_graph_wrong.cpp	/^const int V = 218;$/;"	v
+V	./sssp/bfs_bottom_up_cpu.cpp	/^const int V = 219;$/;"	v
+V	./sssp/bfs_bottom_up_gpu.cpp	/^const int V = 219;$/;"	v
+__GRAPH_H__	./bfs/graph.h	2;"	d
+__GRAPH_H__	./sssp/graph.h	2;"	d
+__H_TIME__	./bfs/wtime.h	2;"	d
+__H_TIME__	./sssp/wtime.h	2;"	d
+__UTIL_H__	./bfs/util.h	2;"	d
+__UTIL_H__	./sssp/util.h	2;"	d
+beg_pos	./bfs/graph.h	/^		index_t *beg_pos;$/;"	m	class:graph
+beg_pos	./bfs/small_graph_read.cpp	/^int beg_pos[v_num+1];$/;"	v
+beg_pos	./sssp/graph.h	/^		index_t *beg_pos;$/;"	m	class:graph
+bfs	./bfs/bfs_cpu_stl.cpp	/^void bfs(index_t root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_bottom_up_cpu.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_multi_invoke.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_naive.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_single_invoke.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_small_graph_wrong.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/bfs_thread_frontier.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./bfs/small_graph_read.cpp	/^void bfs_sa(int root, int v, int e)$/;"	f
+bfs_sa	./sssp/bfs_bottom_up_cpu.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+bfs_sa	./sssp/bfs_bottom_up_gpu.cpp	/^void bfs_sa(int root, graph *g)$/;"	f
+cc	./bfs/Makefile	/^cc = "$(shell which nvcc)" $/;"	m
+cc	./sssp/Makefile	/^cc = "$(shell which nvcc)" $/;"	m
+csr	./bfs/graph.h	/^		vertex_t *csr;$/;"	m	class:graph
+csr	./bfs/small_graph_read.cpp	/^int csr[e_num];$/;"	v
+csr	./sssp/graph.h	/^		vertex_t *csr;$/;"	m	class:graph
+csr_begin	./bfs/small_graph_read.cpp	/^int csr_begin()$/;"	f
+debug_file	./bfs/bfs_bottom_up_cpu.cpp	/^const char debug_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_bottom_up_cpu.debug";$/;"	v
+debug_file	./bfs/bfs_cpu_stl.cpp	/^const char debug_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_stl_cpu.debug";$/;"	v
+debug_file	./sssp/bfs_bottom_up_cpu.cpp	/^const char debug_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_bottom_up_cpu.debug";$/;"	v
+deps	./bfs/Makefile	/^deps = $(wildcard ..\/..\/lib\/*.h) \\$/;"	m
+deps	./sssp/Makefile	/^deps = $(wildcard ..\/..\/lib\/*.h) \\$/;"	m
+depth_t	./bfs/util.h	/^typedef long depth_t;$/;"	t
+depth_t	./sssp/util.h	/^typedef long depth_t;$/;"	t
+e_num	./bfs/small_graph_read.cpp	/^const int e_num = 256*256;$/;"	v
+edge_count	./bfs/graph.h	/^		index_t edge_count;$/;"	m	class:graph
+edge_count	./sssp/graph.h	/^		index_t edge_count;$/;"	m	class:graph
+exe	./bfs/Makefile	/^exe = bfs_small_graph$/;"	m
+exe	./sssp/Makefile	/^exe = sssp$/;"	m
+file_beg_pos	./bfs/small_graph_read.cpp	/^char file_beg_pos[] = "\/home\/yuede\/dataset_small_graph\/contact1_beg.bin";$/;"	v
+file_csr	./bfs/small_graph_read.cpp	/^char file_csr[] = "\/home\/yuede\/dataset_small_graph\/contact1_csr.bin";$/;"	v
+file_result	./sssp/bfs_bottom_up_gpu.cpp	/^const char file_result[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_bottom_up_gpu.result";$/;"	v
+file_v_e	./bfs/small_graph_read.cpp	/^char file_v_e[] = "\/home\/yuede\/dataset_small_graph\/contact1.v_e";$/;"	v
+fileout	./bfs/small_graph_read.cpp	/^char fileout[] = "\/home\/yuede\/dataset_small_graph\/contact1.result";$/;"	v
+flags	./bfs/Makefile	/^flags = -I. #-fopenmp -O3$/;"	m
+flags	./sssp/Makefile	/^flags = -I. #-fopenmp -O3$/;"	m
+fsize	./bfs/util.h	/^inline off_t fsize(const char *filename) {$/;"	f
+fsize	./sssp/util.h	/^inline off_t fsize(const char *filename) {$/;"	f
+gen_src	./bfs/graph.h	/^		void gen_src(){};$/;"	f	class:graph
+gen_src	./sssp/graph.h	/^		void gen_src(){};$/;"	f	class:graph
+graph	./bfs/graph.h	/^		graph(){};$/;"	f	class:graph
+graph	./bfs/graph.h	/^class graph$/;"	c
+graph	./sssp/graph.h	/^		graph(){};$/;"	f	class:graph
+graph	./sssp/graph.h	/^class graph$/;"	c
+groupby	./bfs/graph.h	/^		void groupby(){};$/;"	f	class:graph
+groupby	./sssp/graph.h	/^		void groupby(){};$/;"	f	class:graph
+imin	./bfs/bfs_bottom_up_cpu.cpp	/^index_t imin(index_t a, index_t b)$/;"	f
+imin	./bfs/bfs_cpu_stl.cpp	/^index_t imin(index_t a, index_t b)$/;"	f
+imin	./sssp/bfs_bottom_up_cpu.cpp	/^index_t imin(index_t a, index_t b)$/;"	f
+index_t	./bfs/util.h	/^typedef long index_t;$/;"	t
+index_t	./sssp/util.h	/^typedef long index_t;$/;"	t
+main	./bfs/bfs_bottom_up_cpu.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_cpu_stl.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_multi_invoke.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_naive.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_single_invoke.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_small_graph_wrong.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/bfs_thread_frontier.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./bfs/small_graph_read.cpp	/^int main()$/;"	f
+main	./sssp/bfs_bottom_up_cpu.cpp	/^int main(int args, char ** argv)$/;"	f
+main	./sssp/bfs_bottom_up_gpu.cpp	/^int main(int args, char ** argv)$/;"	f
+objs	./bfs/Makefile	/^objs = $(patsubst %.cu,%.o,$(wildcard ..\/..\/lib\/*.cu))\\$/;"	m
+objs	./sssp/Makefile	/^objs = $(patsubst %.cu,%.o,$(wildcard ..\/..\/lib\/*.cu))\\$/;"	m
+output_file	./bfs/bfs_bottom_up_cpu.cpp	/^const char output_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_bottom_up_cpu.result";$/;"	v
+output_file	./bfs/bfs_cpu_stl.cpp	/^const char output_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_stl_cpu.result";$/;"	v
+output_file	./sssp/bfs_bottom_up_cpu.cpp	/^const char output_file[] = "\/home\/yuede\/small_graph\/dataset_small_graph\/bfs_bottom_up_cpu.result";$/;"	v
+path_t	./bfs/util.h	/^typedef double path_t;$/;"	t
+path_t	./sssp/util.h	/^typedef double path_t;$/;"	t
+print_debug	./bfs/bfs_bottom_up_cpu.cpp	/^void print_debug(graph *g)$/;"	f
+print_debug	./bfs/bfs_cpu_stl.cpp	/^void print_debug(graph *g)$/;"	f
+print_debug	./sssp/bfs_bottom_up_cpu.cpp	/^void print_debug(graph *g)$/;"	f
+print_result	./bfs/bfs_bottom_up_cpu.cpp	/^void print_result()$/;"	f
+print_result	./bfs/bfs_cpu_stl.cpp	/^void print_result()$/;"	f
+print_result	./sssp/bfs_bottom_up_cpu.cpp	/^void print_result()$/;"	f
+print_result	./sssp/bfs_bottom_up_gpu.cpp	/^void print_result()$/;"	f
+q	./bfs/bfs_cpu_stl.cpp	/^queue<index_t> q;$/;"	v
+sa	./bfs/bfs_bottom_up_cpu.cpp	/^index_t sa[V];$/;"	v
+sa	./bfs/bfs_cpu_stl.cpp	/^index_t sa[V];$/;"	v
+sa	./bfs/bfs_multi_invoke.cpp	/^index_t sa[V];$/;"	v
+sa	./bfs/bfs_single_invoke.cpp	/^index_t sa[V];$/;"	v
+sa	./bfs/bfs_small_graph_wrong.cpp	/^int sa[V];$/;"	v
+sa	./bfs/small_graph_read.cpp	/^int sa[v_num];$/;"	v
+sa	./sssp/bfs_bottom_up_cpu.cpp	/^index_t sa[V];$/;"	v
+sa	./sssp/bfs_bottom_up_gpu.cpp	/^index_t sa[V];$/;"	v
+src_count	./bfs/graph.h	/^		index_t src_count;$/;"	m	class:graph
+src_count	./sssp/graph.h	/^		index_t src_count;$/;"	m	class:graph
+src_list	./bfs/graph.h	/^		vertex_t *src_list;$/;"	m	class:graph
+src_list	./sssp/graph.h	/^		vertex_t *src_list;$/;"	m	class:graph
+threads_num	./bfs/small_graph_read.cpp	/^const int threads_num = 256;$/;"	v
+traverse_one	./bfs/bfs_multi_invoke.cpp	/^__global__ void traverse_one(int *dev_level, index_t * dev_beg_pos, index_t * dev_csr, index_t * dev_sa_global, bool * dev_flag_traverse)$/;"	f
+traverse_one	./bfs/bfs_naive.cpp	/^__global__ void traverse_one(int level, int * dev_sa, index_t * dev_beg_pos, index_t * dev_csr)$/;"	f
+traverse_one	./bfs/bfs_single_invoke.cpp	/^__global__ void traverse_one(int *dev_level, index_t * dev_beg_pos, index_t * dev_csr, index_t * dev_sa_global, bool * dev_flag_traverse)$/;"	f
+traverse_one	./bfs/bfs_small_graph_wrong.cpp	/^__global__ void traverse_one(int level, index_t * dev_beg_pos, index_t * dev_csr, index_t * dev_sa_global, bool * dev_flag_traverse, bool * dev_flag_end)$/;"	f
+traverse_one	./bfs/bfs_thread_frontier.cpp	/^__global__ void traverse_one(int level, int * dev_sa, index_t * dev_beg_pos, index_t * dev_csr, bool * dev_flag)$/;"	f
+traverse_one	./bfs/small_graph_read.cpp	/^__global__ void traverse_one(int level, int * dev_sa, int * dev_beg_pos, int * dev_csr)$/;"	f
+traverse_one	./sssp/bfs_bottom_up_gpu.cpp	/^__global__ void traverse_one(index_t * dev_beg_pos, index_t * dev_csr, index_t * dev_sa_global, bool * dev_flag_traverse)$/;"	f
+v_num	./bfs/small_graph_read.cpp	/^const int v_num = 256 * 2;$/;"	v
+vert_count	./bfs/graph.h	/^		index_t vert_count;$/;"	m	class:graph
+vert_count	./sssp/graph.h	/^		index_t vert_count;$/;"	m	class:graph
+vertex_t	./bfs/util.h	/^typedef long vertex_t;$/;"	t
+vertex_t	./sssp/util.h	/^typedef long vertex_t;$/;"	t
+weight	./bfs/graph.h	/^		path_t *weight;$/;"	m	class:graph
+weight	./sssp/graph.h	/^		path_t *weight;$/;"	m	class:graph
+wtime	./bfs/wtime.h	/^inline double wtime()$/;"	f
+wtime	./sssp/wtime.h	/^inline double wtime()$/;"	f
+~graph	./bfs/graph.h	/^		~graph(){};$/;"	f	class:graph
+~graph	./sssp/graph.h	/^		~graph(){};$/;"	f	class:graph
