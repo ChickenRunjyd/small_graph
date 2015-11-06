@@ -1,0 +1,2007 @@
+0
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 0 1 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 0, 1
+Graph load (success): 218 verts, 1328 edges 0.000121117 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 0 1 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.08375e-05 second(s)
+gpu 0, 1
+1
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 1 2 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 1, 2
+Graph load (success): 218 verts, 1328 edges 0.000128984 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 1 2 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000125885 second(s)
+gpu 1, 2
+2
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 2 3 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 2, 3
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 2 3 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.01086e-05 second(s)
+gpu 2, 3
+3
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 3 4 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 3, 4
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 3 4 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 3, 4
+4
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 4 5 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 4, 5
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 4 5 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 4, 5
+5
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 5 6 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 5, 6
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 5 6 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 5, 6
+6
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 6 7 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 6, 7
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 6 7 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 6, 7
+7
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 7 8 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 7, 8
+Graph load (success): 218 verts, 1328 edges 5.57899e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 7 8 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.29289e-05 second(s)
+gpu 7, 8
+8
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 8 9 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 8, 9
+Graph load (success): 218 verts, 1328 edges 7.70092e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 8 9 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000127792 second(s)
+gpu 8, 9
+9
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 9 10 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 9, 10
+Graph load (success): 218 verts, 1328 edges 0.000126123 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 9 10 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.10759e-05 second(s)
+gpu 9, 10
+10
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 10 11 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 10, 11
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 10 11 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 10, 11
+11
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 11 12 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 11, 12
+Graph load (success): 218 verts, 1328 edges 0.000131845 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 11 12 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000126123 second(s)
+gpu 11, 12
+12
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 12 13 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 12, 13
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 12 13 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 12, 13
+13
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 13 14 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 13, 14
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 13 14 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+gpu 13, 14
+14
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 14 15 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 14, 15
+Graph load (success): 218 verts, 1328 edges 6.79493e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 14 15 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+gpu 14, 15
+14 diff.bc wrong
+15
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 15 16 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 15, 16
+Graph load (success): 218 verts, 1328 edges 0.000135899 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 15 16 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000121832 second(s)
+gpu 15, 16
+16
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 16 17 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 16, 17
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 16 17 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 16, 17
+16 diff.bc wrong
+17
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 17 18 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 17, 18
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 17 18 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 17, 18
+18
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 18 19 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 18, 19
+Graph load (success): 218 verts, 1328 edges 6.69956e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 18 19 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 18, 19
+18 diff.bc wrong
+19
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 19 20 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 19, 20
+Graph load (success): 218 verts, 1328 edges 5.38826e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 19 20 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.07967e-05 second(s)
+gpu 19, 20
+20
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 20 21 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 20, 21
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 20 21 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 20, 21
+20 diff.bc wrong
+21
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 21 22 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 21, 22
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 21 22 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 21, 22
+22
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 22 23 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 22, 23
+Graph load (success): 218 verts, 1328 edges 5.4121e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 22 23 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 22, 23
+23
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 23 24 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 23, 24
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 23 24 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 23, 24
+23 diff.sp_count wrong
+23 diff.bc wrong
+24
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 24 25 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 24, 25
+Graph load (success): 218 verts, 1328 edges 0.000109911 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 24 25 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.51154e-05 second(s)
+gpu 24, 25
+24 diff.sp_count wrong
+24 diff.bc wrong
+25
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 25 26 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 25, 26
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 25 26 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 25, 26
+26
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 26 27 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 26, 27
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 26 27 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 26, 27
+27
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 27 28 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 27, 28
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 27 28 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.69956e-05 second(s)
+gpu 27, 28
+28
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 28 29 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 28, 29
+Graph load (success): 218 verts, 1328 edges 0.000115156 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 28 29 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.00013113 second(s)
+gpu 28, 29
+29
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 29 30 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 29, 30
+Graph load (success): 218 verts, 1328 edges 8.2016e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 29 30 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000122786 second(s)
+gpu 29, 30
+30
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 30 31 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 30, 31
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 30 31 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 30, 31
+31
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 31 32 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 31, 32
+Graph load (success): 218 verts, 1328 edges 6.07967e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 31 32 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+gpu 31, 32
+32
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 32 33 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 32, 33
+Graph load (success): 218 verts, 1328 edges 0.000127077 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 32 33 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000135899 second(s)
+gpu 32, 33
+33
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 33 34 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 33, 34
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 33 34 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 33, 34
+34
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 34 35 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 34, 35
+Graph load (success): 218 verts, 1328 edges 0.000153065 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 34 35 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.10759e-05 second(s)
+gpu 34, 35
+34 diff.bc wrong
+35
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 35 36 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 35, 36
+Graph load (success): 218 verts, 1328 edges 8.29697e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 35 36 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.20024e-05 second(s)
+gpu 35, 36
+36
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 36 37 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 36, 37
+Graph load (success): 218 verts, 1328 edges 0.000102997 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 36 37 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.70228e-05 second(s)
+gpu 36, 37
+37
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 37 38 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 37, 38
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 37 38 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 37, 38
+38
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 38 39 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 38, 39
+Graph load (success): 218 verts, 1328 edges 0.000118971 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 38 39 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000115871 second(s)
+gpu 38, 39
+39
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 39 40 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 39, 40
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 39 40 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 39, 40
+40
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 40 41 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 40, 41
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 40 41 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 40, 41
+41
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 41 42 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 41, 42
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 41 42 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 41, 42
+42
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 42 43 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 42, 43
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 42 43 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 42, 43
+43
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 43 44 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 43, 44
+Graph load (success): 218 verts, 1328 edges 0.000132084 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 43 44 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000129938 second(s)
+gpu 43, 44
+44
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 44 45 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 44, 45
+Graph load (success): 218 verts, 1328 edges 6.38962e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 44 45 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.57899e-05 second(s)
+gpu 44, 45
+45
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 45 46 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 45, 46
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 45 46 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 45, 46
+46
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 46 47 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 46, 47
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 46 47 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 46, 47
+47
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 47 48 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 47, 48
+Graph load (success): 218 verts, 1328 edges 0.00011301 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 47 48 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.5129e-05 second(s)
+gpu 47, 48
+48
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 48 49 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 48, 49
+Graph load (success): 218 verts, 1328 edges 9.799e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 48 49 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 48, 49
+49
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 49 50 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 49, 50
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 49 50 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 49, 50
+50
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 50 51 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 50, 51
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 50 51 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 50, 51
+51
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 51 52 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 51, 52
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 51 52 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.38826e-05 second(s)
+gpu 51, 52
+52
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 52 53 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 52, 53
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 52 53 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 52, 53
+53
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 53 54 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 53, 54
+Graph load (success): 218 verts, 1328 edges 7.20024e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 53 54 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.69956e-05 second(s)
+gpu 53, 54
+54
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 54 55 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 54, 55
+Graph load (success): 218 verts, 1328 edges 7.51019e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 54 55 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.60419e-05 second(s)
+gpu 54, 55
+55
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 55 56 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 55, 56
+Graph load (success): 218 verts, 1328 edges 7.20024e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 55 56 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.70092e-05 second(s)
+gpu 55, 56
+56
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 56 57 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 56, 57
+Graph load (success): 218 verts, 1328 edges 0.000135899 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 56 57 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000130892 second(s)
+gpu 56, 57
+57
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 57 58 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 57, 58
+Graph load (success): 218 verts, 1328 edges 6.79493e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 57 58 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000133038 second(s)
+gpu 57, 58
+58
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 58 59 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 58, 59
+Graph load (success): 218 verts, 1328 edges 0.000144005 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 58 59 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000108004 second(s)
+gpu 58, 59
+59
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 59 60 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 59, 60
+Graph load (success): 218 verts, 1328 edges 0.000123024 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 59 60 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.58443e-05 second(s)
+gpu 59, 60
+60
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 60 61 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 60, 61
+Graph load (success): 218 verts, 1328 edges 0.000104904 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 60 61 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.60827e-05 second(s)
+gpu 60, 61
+61
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 61 62 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 61, 62
+Graph load (success): 218 verts, 1328 edges 8.51154e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 61 62 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.4877e-05 second(s)
+gpu 61, 62
+62
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 62 63 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 62, 63
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 62 63 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 62, 63
+63
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 63 64 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 63, 64
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 63 64 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+gpu 63, 64
+64
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 64 65 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 64, 65
+Graph load (success): 218 verts, 1328 edges 0.000105858 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 64 65 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+gpu 64, 65
+65
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 65 66 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 65, 66
+Graph load (success): 218 verts, 1328 edges 0.000128984 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 65 66 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000132084 second(s)
+gpu 65, 66
+66
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 66 67 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 66, 67
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 66 67 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+gpu 66, 67
+67
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 67 68 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 67, 68
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 67 68 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 67, 68
+68
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 68 69 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 68, 69
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 68 69 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.57899e-05 second(s)
+gpu 68, 69
+69
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 69 70 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 69, 70
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 69 70 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 69, 70
+70
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 70 71 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 70, 71
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 70 71 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 70, 71
+71
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 71 72 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 71, 72
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 71 72 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.79493e-05 second(s)
+gpu 71, 72
+72
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 72 73 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 72, 73
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 72 73 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 72, 73
+73
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 73 74 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 73, 74
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 73 74 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+gpu 73, 74
+74
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 74 75 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 74, 75
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 74 75 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 74, 75
+74 diff.sp_count wrong
+74 diff.bc wrong
+75
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 75 76 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 75, 76
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 75 76 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 75, 76
+76
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 76 77 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 76, 77
+Graph load (success): 218 verts, 1328 edges 0.000124931 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 76 77 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000135899 second(s)
+gpu 76, 77
+76 diff.sp_count wrong
+76 diff.bc wrong
+77
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 77 78 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 77, 78
+Graph load (success): 218 verts, 1328 edges 5.4121e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 77 78 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 77, 78
+78
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 78 79 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 78, 79
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 78 79 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 78, 79
+79
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 79 80 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 79, 80
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 79 80 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 79, 80
+80
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 80 81 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 80, 81
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 80 81 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 80, 81
+81
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 81 82 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 81, 82
+Graph load (success): 218 verts, 1328 edges 0.000114918 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 81 82 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000123978 second(s)
+gpu 81, 82
+82
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 82 83 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 82, 83
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 82 83 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 82, 83
+83
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 83 84 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 83, 84
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 83 84 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.60419e-05 second(s)
+gpu 83, 84
+84
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 84 85 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 84, 85
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 84 85 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.00012517 second(s)
+gpu 84, 85
+85
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 85 86 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 85, 86
+Graph load (success): 218 verts, 1328 edges 0.000110865 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 85 86 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.98838e-05 second(s)
+gpu 85, 86
+86
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 86 87 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 86, 87
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 86 87 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+gpu 86, 87
+87
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 87 88 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 87, 88
+Graph load (success): 218 verts, 1328 edges 9.5129e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 87 88 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000120878 second(s)
+gpu 87, 88
+88
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 88 89 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 88, 89
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 88 89 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 88, 89
+89
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 89 90 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 89, 90
+Graph load (success): 218 verts, 1328 edges 6.38962e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 89 90 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 89, 90
+90
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 90 91 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 90, 91
+Graph load (success): 218 verts, 1328 edges 9.60827e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 90 91 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+gpu 90, 91
+91
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 91 92 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 91, 92
+Graph load (success): 218 verts, 1328 edges 0.000106096 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 91 92 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.70364e-05 second(s)
+gpu 91, 92
+92
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 92 93 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 92, 93
+Graph load (success): 218 verts, 1328 edges 6.38962e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 92 93 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+gpu 92, 93
+92 diff.sp_count wrong
+92 diff.bc wrong
+93
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 93 94 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 93, 94
+Graph load (success): 218 verts, 1328 edges 0.00012517 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 93 94 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000138044 second(s)
+gpu 93, 94
+93 diff.sp_count wrong
+93 diff.bc wrong
+94
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 94 95 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 94, 95
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 94 95 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000101805 second(s)
+gpu 94, 95
+95
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 95 96 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 95, 96
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 95 96 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 95, 96
+96
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 96 97 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 96, 97
+Graph load (success): 218 verts, 1328 edges 7.58171e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 96 97 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 96, 97
+97
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 97 98 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 97, 98
+Graph load (success): 218 verts, 1328 edges 6.58035e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 97 98 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 97, 98
+98
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 98 99 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 98, 99
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 98 99 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+gpu 98, 99
+99
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 99 100 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 99, 100
+Graph load (success): 218 verts, 1328 edges 5.29289e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 99 100 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 99, 100
+99 diff.sp_count wrong
+99 diff.bc wrong
+100
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 100 101 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 100, 101
+Graph load (success): 218 verts, 1328 edges 0.000121832 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 100 101 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000124931 second(s)
+gpu 100, 101
+101
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 101 102 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 101, 102
+Graph load (success): 218 verts, 1328 edges 9.60827e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 101 102 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.67844e-05 second(s)
+gpu 101, 102
+102
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 102 103 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 102, 103
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 102 103 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+gpu 102, 103
+103
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 103 104 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 103, 104
+Graph load (success): 218 verts, 1328 edges 6.69956e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 103 104 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.00679e-05 second(s)
+gpu 103, 104
+104
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 104 105 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 104, 105
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 104 105 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 104, 105
+105
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 105 106 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 105, 106
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 105 106 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+gpu 105, 106
+106
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 106 107 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 106, 107
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 106 107 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+gpu 106, 107
+107
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 107 108 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 107, 108
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 107 108 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+gpu 107, 108
+108
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 108 109 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 108, 109
+Graph load (success): 218 verts, 1328 edges 6.69956e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 108 109 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 108, 109
+109
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 109 110 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 109, 110
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 109 110 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 109, 110
+110
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 110 111 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 110, 111
+Graph load (success): 218 verts, 1328 edges 0.000118017 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 110 111 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000136137 second(s)
+gpu 110, 111
+111
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 111 112 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 111, 112
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 111 112 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+gpu 111, 112
+112
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 112 113 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 112, 113
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 112 113 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.29289e-05 second(s)
+gpu 112, 113
+113
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 113 114 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 113, 114
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 113 114 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.48499e-05 second(s)
+gpu 113, 114
+114
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 114 115 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 114, 115
+Graph load (success): 218 verts, 1328 edges 0.000125885 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 114 115 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000144958 second(s)
+gpu 114, 115
+115
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 115 116 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 115, 116
+Graph load (success): 218 verts, 1328 edges 0.000114918 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 115 116 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+gpu 115, 116
+116
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 116 117 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 116, 117
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 116 117 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.00012517 second(s)
+gpu 116, 117
+117
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 117 118 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 117, 118
+Graph load (success): 218 verts, 1328 edges 0.000123024 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 117 118 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.799e-05 second(s)
+gpu 117, 118
+118
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 118 119 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 118, 119
+Graph load (success): 218 verts, 1328 edges 8.79765e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 118 119 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000124931 second(s)
+gpu 118, 119
+119
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 119 120 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 119, 120
+Graph load (success): 218 verts, 1328 edges 0.000118017 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 119 120 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+gpu 119, 120
+120
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 120 121 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 120, 121
+Graph load (success): 218 verts, 1328 edges 7.98702e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 120 121 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+gpu 120, 121
+121
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 121 122 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 121, 122
+Graph load (success): 218 verts, 1328 edges 6.58035e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 121 122 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 121, 122
+122
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 122 123 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 122, 123
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 122 123 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 122, 123
+123
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 123 124 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 123, 124
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 123 124 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.4121e-05 second(s)
+gpu 123, 124
+124
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 124 125 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 124, 125
+Graph load (success): 218 verts, 1328 edges 5.31673e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 124 125 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.38962e-05 second(s)
+gpu 124, 125
+124 diff.sp_count wrong
+124 diff.bc wrong
+125
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 125 126 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 125, 126
+Graph load (success): 218 verts, 1328 edges 5.31673e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 125 126 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 125, 126
+126
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 126 127 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 126, 127
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 126 127 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 126, 127
+126 diff.sp_count wrong
+126 diff.bc wrong
+127
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 127 128 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 127, 128
+Graph load (success): 218 verts, 1328 edges 0.000113964 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 127 128 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.58307e-05 second(s)
+gpu 127, 128
+128
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 128 129 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 128, 129
+Graph load (success): 218 verts, 1328 edges 9.20296e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 128 129 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.10623e-05 second(s)
+gpu 128, 129
+129
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 129 130 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 129, 130
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 129 130 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 129, 130
+129 diff.sp_count wrong
+129 diff.bc wrong
+130
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 130 131 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 130, 131
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 130 131 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.08375e-05 second(s)
+gpu 130, 131
+131
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 131 132 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 131, 132
+Graph load (success): 218 verts, 1328 edges 0.000111103 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 131 132 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.10623e-05 second(s)
+gpu 131, 132
+132
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 132 133 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 132, 133
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 132 133 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.00951e-05 second(s)
+gpu 132, 133
+133
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 133 134 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 133, 134
+Graph load (success): 218 verts, 1328 edges 6.38962e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 133 134 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+gpu 133, 134
+134
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 134 135 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 134, 135
+Graph load (success): 218 verts, 1328 edges 0.000108957 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 134 135 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.60691e-05 second(s)
+gpu 134, 135
+135
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 135 136 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 135, 136
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 135 136 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 135, 136
+136
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 136 137 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 136, 137
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 136 137 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+gpu 136, 137
+137
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 137 138 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 137, 138
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 137 138 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 137, 138
+138
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 138 139 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 138, 139
+Graph load (success): 218 verts, 1328 edges 6.31809e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 138 139 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 138, 139
+139
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 139 140 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 139, 140
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 139 140 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+gpu 139, 140
+139 diff.sp_count wrong
+139 diff.bc wrong
+140
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 140 141 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 140, 141
+Graph load (success): 218 verts, 1328 edges 8.91685e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 140 141 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 140, 141
+141
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 141 142 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 141, 142
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 141 142 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000135899 second(s)
+gpu 141, 142
+142
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 142 143 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 142, 143
+Graph load (success): 218 verts, 1328 edges 0.000124931 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 142 143 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000133038 second(s)
+gpu 142, 143
+143
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 143 144 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 143, 144
+Graph load (success): 218 verts, 1328 edges 0.000113964 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 143 144 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.08375e-05 second(s)
+gpu 143, 144
+144
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 144 145 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 144, 145
+Graph load (success): 218 verts, 1328 edges 8.2016e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 144 145 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.9155e-05 second(s)
+gpu 144, 145
+145
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 145 146 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 145, 146
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 145 146 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 145, 146
+145 diff.sp_count wrong
+145 diff.bc wrong
+146
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 146 147 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 146, 147
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 146 147 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+gpu 146, 147
+146 diff.sp_count wrong
+146 diff.bc wrong
+147
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 147 148 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 147, 148
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 147 148 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+gpu 147, 148
+148
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 148 149 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 148, 149
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 148 149 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 148, 149
+149
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 149 150 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 149, 150
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 149 150 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.8903e-05 second(s)
+gpu 149, 150
+149 diff.sp_count wrong
+149 diff.bc wrong
+150
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 150 151 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 150, 151
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 150 151 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 150, 151
+151
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 151 152 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 151, 152
+Graph load (success): 218 verts, 1328 edges 0.000118017 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 151 152 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000121117 second(s)
+gpu 151, 152
+152
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 152 153 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 152, 153
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 152 153 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.57899e-05 second(s)
+gpu 152, 153
+153
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 153 154 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 153, 154
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 153 154 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 153, 154
+154
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 154 155 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 154, 155
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 154 155 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 154, 155
+155
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 155 156 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 155, 156
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 155 156 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 155, 156
+156
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 156 157 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 156, 157
+Graph load (success): 218 verts, 1328 edges 0.000116825 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 156 157 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000140905 second(s)
+gpu 156, 157
+157
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 157 158 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 157, 158
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 157 158 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+gpu 157, 158
+158
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 158 159 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 158, 159
+Graph load (success): 218 verts, 1328 edges 5.4121e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 158 159 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 158, 159
+159
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 159 160 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 159, 160
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 159 160 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 159, 160
+160
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 160 161 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 160, 161
+Graph load (success): 218 verts, 1328 edges 5.91278e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 160 161 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 160, 161
+160 diff.sp_count wrong
+160 diff.bc wrong
+161
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 161 162 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 161, 162
+Graph load (success): 218 verts, 1328 edges 5.48363e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 161 162 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 161, 162
+162
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 162 163 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 162, 163
+Graph load (success): 218 verts, 1328 edges 0.000123978 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 162 163 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.48906e-05 second(s)
+gpu 162, 163
+163
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 163 164 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 163, 164
+Graph load (success): 218 verts, 1328 edges 9.10759e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 163 164 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.9155e-05 second(s)
+gpu 163, 164
+164
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 164 165 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 164, 165
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 164 165 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.10216e-05 second(s)
+gpu 164, 165
+165
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 165 166 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 165, 166
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 165 166 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 165, 166
+166
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 166 167 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 166, 167
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 166 167 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000126123 second(s)
+gpu 166, 167
+167
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 167 168 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 167, 168
+Graph load (success): 218 verts, 1328 edges 0.000118971 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 167 168 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.70364e-05 second(s)
+gpu 167, 168
+168
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 168 169 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 168, 169
+Graph load (success): 218 verts, 1328 edges 0.000125885 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 168 169 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.58443e-05 second(s)
+gpu 168, 169
+169
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 169 170 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 169, 170
+Graph load (success): 218 verts, 1328 edges 9.41753e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 169 170 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.89301e-05 second(s)
+gpu 169, 170
+170
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 170 171 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 170, 171
+Graph load (success): 218 verts, 1328 edges 0.000118971 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 170 171 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000124931 second(s)
+gpu 170, 171
+171
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 171 172 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 171, 172
+Graph load (success): 218 verts, 1328 edges 6.58035e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 171 172 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.58035e-05 second(s)
+gpu 171, 172
+172
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 172 173 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 172, 173
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 172 173 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+gpu 172, 173
+173
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 173 174 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 173, 174
+Graph load (success): 218 verts, 1328 edges 0.000101089 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 173 174 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.799e-05 second(s)
+gpu 173, 174
+174
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 174 175 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 174, 175
+Graph load (success): 218 verts, 1328 edges 5.91278e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 174 175 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 7.20024e-05 second(s)
+gpu 174, 175
+175
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 175 176 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 175, 176
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 175 176 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 175, 176
+176
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 176 177 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 176, 177
+Graph load (success): 218 verts, 1328 edges 0.000133991 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 176 177 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000134945 second(s)
+gpu 176, 177
+177
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 177 178 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 177, 178
+Graph load (success): 218 verts, 1328 edges 0.00013113 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 177 178 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000101089 second(s)
+gpu 177, 178
+178
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 178 179 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 178, 179
+Graph load (success): 218 verts, 1328 edges 7.79629e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 178 179 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.29697e-05 second(s)
+gpu 178, 179
+179
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 179 180 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 179, 180
+Graph load (success): 218 verts, 1328 edges 6.29425e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 179 180 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000123024 second(s)
+gpu 179, 180
+180
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 180 181 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 180, 181
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 180 181 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.72205e-05 second(s)
+gpu 180, 181
+181
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 181 182 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 181, 182
+Graph load (success): 218 verts, 1328 edges 6.41346e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 181 182 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 181, 182
+181 diff.sp_count wrong
+181 diff.bc wrong
+182
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 182 183 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 182, 183
+Graph load (success): 218 verts, 1328 edges 0.000125885 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 182 183 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.29832e-05 second(s)
+gpu 182, 183
+182 diff.sp_count wrong
+182 diff.bc wrong
+183
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 183 184 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 183, 184
+Graph load (success): 218 verts, 1328 edges 0.000133991 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 183 184 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000137091 second(s)
+gpu 183, 184
+184
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 184 185 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 184, 185
+Graph load (success): 218 verts, 1328 edges 0.000129938 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 184 185 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000123024 second(s)
+gpu 184, 185
+185
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 185 186 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 185, 186
+Graph load (success): 218 verts, 1328 edges 0.000104904 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 185 186 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000106096 second(s)
+gpu 185, 186
+186
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 186 187 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 186, 187
+Graph load (success): 218 verts, 1328 edges 0.00011301 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 186 187 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.2016e-05 second(s)
+gpu 186, 187
+187
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 187 188 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 187, 188
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 187 188 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 187, 188
+188
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 188 189 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 188, 189
+Graph load (success): 218 verts, 1328 edges 0.000126839 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 188 189 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000129938 second(s)
+gpu 188, 189
+189
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 189 190 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 189, 190
+Graph load (success): 218 verts, 1328 edges 0.000117064 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 189 190 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.48906e-05 second(s)
+gpu 189, 190
+190
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 190 191 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 190, 191
+Graph load (success): 218 verts, 1328 edges 8.70228e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 190 191 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.39369e-05 second(s)
+gpu 190, 191
+191
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 191 192 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 191, 192
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 191 192 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 191, 192
+192
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 192 193 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 192, 193
+Graph load (success): 218 verts, 1328 edges 0.00010705 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 192 193 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+gpu 192, 193
+193
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 193 194 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 193, 194
+Graph load (success): 218 verts, 1328 edges 5.81741e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 193 194 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000133038 second(s)
+gpu 193, 194
+194
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 194 195 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 194, 195
+Graph load (success): 218 verts, 1328 edges 0.000112057 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 194 195 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.10759e-05 second(s)
+gpu 194, 195
+195
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 195 196 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 195, 196
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 195 196 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.00679e-05 second(s)
+gpu 195, 196
+196
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 196 197 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 196, 197
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 196 197 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000128984 second(s)
+gpu 196, 197
+197
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 197 198 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 197, 198
+Graph load (success): 218 verts, 1328 edges 0.000104904 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 197 198 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.10759e-05 second(s)
+gpu 197, 198
+198
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 198 199 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 198, 199
+Graph load (success): 218 verts, 1328 edges 0.000130892 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 198 199 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000106096 second(s)
+gpu 198, 199
+199
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 199 200 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 199, 200
+Graph load (success): 218 verts, 1328 edges 0.000113964 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 199 200 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.70228e-05 second(s)
+gpu 199, 200
+200
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 200 201 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 200, 201
+Graph load (success): 218 verts, 1328 edges 8.39233e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 200 201 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000128984 second(s)
+gpu 200, 201
+201
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 201 202 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 201, 202
+Graph load (success): 218 verts, 1328 edges 7.79629e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 201 202 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 8.4877e-05 second(s)
+gpu 201, 202
+201 diff.sp_count wrong
+201 diff.bc wrong
+202
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 202 203 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 202, 203
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 202 203 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.6982e-05 second(s)
+gpu 202, 203
+203
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 203 204 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 203, 204
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 203 204 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.88894e-05 second(s)
+gpu 203, 204
+203 diff.sp_count wrong
+203 diff.bc wrong
+204
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 204 205 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 204, 205
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 204 205 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+gpu 204, 205
+205
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 205 206 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 205, 206
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 205 206 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.00679e-05 second(s)
+gpu 205, 206
+206
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 206 207 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 206, 207
+Graph load (success): 218 verts, 1328 edges 5.98431e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 206 207 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+gpu 206, 207
+207
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 207 208 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 207, 208
+Graph load (success): 218 verts, 1328 edges 6.10352e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 207 208 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.50747e-05 second(s)
+gpu 207, 208
+208
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 208 209 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 208, 209
+Graph load (success): 218 verts, 1328 edges 5.38826e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 208 209 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.79357e-05 second(s)
+gpu 208, 209
+209
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 209 210 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 209, 210
+Graph load (success): 218 verts, 1328 edges 5.91278e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 209 210 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.29289e-05 second(s)
+gpu 209, 210
+210
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 210 211 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 210, 211
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 210 211 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.29289e-05 second(s)
+gpu 210, 211
+210 diff.sp_count wrong
+210 diff.bc wrong
+211
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 211 212 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 211, 212
+Graph load (success): 218 verts, 1328 edges 6.19888e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 211 212 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 6.50883e-05 second(s)
+gpu 211, 212
+212
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 212 213 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 212, 213
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 212 213 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.91278e-05 second(s)
+gpu 212, 213
+213
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 213 214 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 213, 214
+Graph load (success): 218 verts, 1328 edges 6.00815e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 213 214 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 5.60284e-05 second(s)
+gpu 213, 214
+214
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 214 215 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 214, 215
+Graph load (success): 218 verts, 1328 edges 6.48499e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 214 215 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000129938 second(s)
+gpu 214, 215
+215
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 215 216 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 215, 216
+Graph load (success): 218 verts, 1328 edges 0.000118017 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 215 216 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 9.91821e-05 second(s)
+gpu 215, 216
+216
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 216 217 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 216, 217
+Graph load (success): 218 verts, 1328 edges 9.20296e-05 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 216 217 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000127077 second(s)
+gpu 216, 217
+217
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 217 218 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count start_vert end_vert
+cpu 217, 218
+Graph load (success): 218 verts, 1328 edges 0.000118971 second(s)
+./bc /home/yuede/small_graph/dataset_sssp/begin.bin /home/yuede/small_graph/dataset_sssp/adjacent.bin /home/yuede/small_graph/dataset_sssp/weight.bin 218 217 218 
+Input: ./bfs_small_graph /path/to/beg /path/to/csr thread-count
+Graph load (success): 218 verts, 1328 edges 0.000101089 second(s)
+gpu 217, 218
